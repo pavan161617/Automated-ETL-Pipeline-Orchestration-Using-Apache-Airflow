@@ -57,8 +57,8 @@ Contributions are welcome! Fork the repository, make improvements, and open a pu
 
 📧 Contact  
 Developer: Pavan Kumar  
-GitHub: pavan161617  
-LinkedIn: Pavan Kumar  
-Email: pavan90990@gmail.com  
+GitHub: [pavan161617](https://github.com/pavan161617)  
+LinkedIn: [Pavan Kumar](https://www.linkedin.com/in/pavan-kumar-b7639125a/)  
+Email: [pavan90990@gmail.com](mailto:pavan90990@gmail.com) 
 
 ⭐ If you find this project useful, please star the repository! ⭐
