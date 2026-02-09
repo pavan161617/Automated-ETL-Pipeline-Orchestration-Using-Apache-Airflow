@@ -18,7 +18,7 @@ Automated ETL Pipeline Orchestration Using Apache Airflow is a scalable data eng
 📂 Project Structure  
 📂 Automated-ETL-Pipeline-Orchestration-Using-Apache-Airflow  
 │── 📁 dags                 # Airflow DAG definitions  
-│── 📁 plugins              # Custom hooks, operators, sensors  
+│── 📁 Data                 # Raw Data  
 │── docker-compose.yml      # Dockerized Airflow setup  
 │── logs_sample.zip         # Sample Airflow logs (compressed)  
 │── .gitignore              # Ignored runtime artifacts  
