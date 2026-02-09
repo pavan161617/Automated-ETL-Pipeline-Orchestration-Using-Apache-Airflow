@@ -1,0 +1,19 @@
+# Airflow runtime
+logs/
+airflow.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (large / runtime)
+data/
+*.csv
+*.txt
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
